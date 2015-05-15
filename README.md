@@ -1,4 +1,3 @@
-# tv2
 &#8226; 视 频 小 站：
 <a href="http://27.ddns.info/" target="_blank">网址一</a>
 　<a href="http://237.info.tm/" target="_blank">网址二</a>
